@@ -5,7 +5,7 @@ Sistema de gerenciamento de eventos em Laravel.
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/evenza.git
+git clone https://github.com/acarolinadamore/evenza-laravel
 cd evenza
 composer install
 cp .env.example .env
